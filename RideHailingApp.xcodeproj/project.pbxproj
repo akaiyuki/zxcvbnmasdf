@@ -262,6 +262,7 @@
 				TargetAttributes = {
 					FD1BC4631F25A1F100160920 = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = 8VDPP9J9NJ;
 						ProvisioningStyle = Automatic;
 					};
 					FD1BC47C1F25A1F200160920 = {
@@ -517,7 +518,9 @@
 			baseConfigurationReference = 33A24ADB68A6E5CD0C0D9587 /* Pods-RideHailingApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8VDPP9J9NJ;
 				INFOPLIST_FILE = RideHailingApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.av.dev.RideHailingApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -529,7 +532,9 @@
 			baseConfigurationReference = 05980EB14924BBC95D61CC74 /* Pods-RideHailingApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 8VDPP9J9NJ;
 				INFOPLIST_FILE = RideHailingApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.av.dev.RideHailingApp;
 				PRODUCT_NAME = "$(TARGET_NAME)";

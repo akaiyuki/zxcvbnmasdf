@@ -9,76 +9,28 @@
             shouldBeEnabled = "No"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "RideHailingApp/LoginViewController.m"
-            timestampString = "523343872.07527"
+            filePath = "RideHailingApp/AppDelegate.m"
+            timestampString = "523773822.693611"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "202"
-            endingLineNumber = "202"
-            landmarkName = "-callRequestApi:"
+            startingLineNumber = "12"
+            endingLineNumber = "12">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideHailingApp/MainScreenViewController.m"
+            timestampString = "523963129.1696"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "176"
+            endingLineNumber = "176"
+            landmarkName = "-loadView"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__38-[LoginViewController callRequestApi:]_block_invoke"
-                  moduleName = "RideHailingApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/AVDev/Documents/RideHailingApp/RideHailingApp/LoginViewController.m"
-                  timestampString = "523336924.371682"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "196"
-                  endingLineNumber = "196"
-                  offsetFromSymbolStart = "463">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__copy_helper_block_"
-                  moduleName = "RideHailingApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/AVDev/Documents/RideHailingApp/RideHailingApp/LoginViewController.m"
-                  timestampString = "523336924.382208"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "196"
-                  endingLineNumber = "196"
-                  offsetFromSymbolStart = "51">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__destroy_helper_block_"
-                  moduleName = "RideHailingApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/AVDev/Documents/RideHailingApp/RideHailingApp/LoginViewController.m"
-                  timestampString = "523336924.384285"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "196"
-                  endingLineNumber = "196"
-                  offsetFromSymbolStart = "29">
-               </Location>
-               <Location
-                  shouldBeEnabled = "No"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "__38-[LoginViewController callRequestApi:]_block_invoke.151"
-                  moduleName = "RideHailingApp"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/AVDev/Documents/RideHailingApp/RideHailingApp/LoginViewController.m"
-                  timestampString = "523336924.386937"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "197"
-                  endingLineNumber = "197"
-                  offsetFromSymbolStart = "82">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
